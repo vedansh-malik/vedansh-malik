@@ -12,7 +12,7 @@
 
 <picture>
   <img align="right" 
-       src="https://private-user-images.githubusercontent.com/109542403/483116599-cd70c427-be94-49ce-b1b8-feceb03a38b2.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYzNzkyOTYsIm5iZiI6MTc1NjM3ODk5NiwicGF0aCI6Ii8xMDk1NDI0MDMvNDgzMTE2NTk5LWNkNzBjNDI3LWJlOTQtNDljZS1iMWI4LWZlY2ViMDNhMzhiMi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyOFQxMTAzMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTUyYjI1NTVlZmY3ZjIxMjEwNTU0MzhjOGI4ZDNjMWUyYzIyNzU4NGVkODNhNDdkMTZkMmZiODVhMTE4MzQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.K0vI6BkxKQknBWAapqJPcH3yI2_958Q08GONWXcjdSA" 
+       src="https://github.com/vedansh-malik/vedansh-malik/blob/d6e166229268d14bfbc6c28583f7f01bdc8a858c/gif-ezgif.com-crop%20(1).gif" 
        style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;" />
 </picture>
 
