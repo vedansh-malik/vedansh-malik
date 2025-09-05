@@ -29,12 +29,9 @@ Welcome to my GitHub profile! I’m passionate about building **scalable, real-w
 - I enjoy challenges, whether it’s solving a tough DSA problem or creating a full-stack app. 
 - I believe in learning by doing, and I’m always exploring new tools and technologies.
 - I enjoy learning by working on projects and experimenting with new technologies.
-
-<br>
-<br>
 <br>
 
----
+
 
 ## Tech Stack  
 
